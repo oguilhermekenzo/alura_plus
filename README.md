@@ -19,7 +19,7 @@ Este é um projeto de uma landing page responsiva para o serviço fictício de s
 
 ## 📁 Estrutura de pastas
 
-```plaintext
+
 alura-plus/
 ├── assets/
 │   └── images/
