@@ -28,7 +28,7 @@ alura-plus/
 ├── assets/
 │   └── images/
 │       └── combo.png
-│       └── hero.png
+│       └── telas.png
 ├── style.css
 └── index.html
 
