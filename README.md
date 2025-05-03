@@ -6,10 +6,6 @@ Este é um projeto de uma landing page responsiva para o serviço fictício de s
 
 👉 [Clique aqui para acessar](https://alura-plus-five-dun.vercel.app)
 
-## 📸 Preview
-
-![Preview da landing page](https://alura-plus-five-dun.vercel.app/assets/images/hero.png)
-
 ## 🛠 Tecnologias utilizadas
 
 - HTML5
